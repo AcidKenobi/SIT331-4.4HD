@@ -1,0 +1,28 @@
+﻿{{> imports}}
+
+namespace {{namespace}} {
+    {{#if comment}}
+        /// <summary>{{comment}}</summary>
+    {{/if}}
+    {{#each class-annotations}}
+    {{{class-annotation}}}
+    {{/each}}
+
+    public class {{class}}{
+
+        {{#if lines}}
+            {{#each lines}}{{property-name}} = new HashSet<{{property-type}}>();{{/each}}
+        {{/if}}
+        {{{> properties}}}
+        
+        public {{class}}(){
+    
+        }
+
+        public {{class}}({{#each properties}}{{property-type}} {{property-name}}{{#unless @last}}, {{/unless}}{{/each}}){
+        {{#each properties}} 
+            this.{{property-name}} = {{property-name}};
+        {{/each}}
+        }
+    }
+}

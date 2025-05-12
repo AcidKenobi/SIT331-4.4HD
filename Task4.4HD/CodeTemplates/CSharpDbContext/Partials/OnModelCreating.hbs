@@ -1,0 +1,11 @@
+protected override void OnModelCreating(ModelBuilder modelBuilder)
+{
+{{#each entityTypeConfigurations}}
+    modelBuilder.Entity<{{entityType.Name}}>(entity =>
+    {
+{{#each propertyConfigurations}}
+        entity.Property(e => e.{{property.Name}}).HasColumnName("{{property.ColumnName}}");
+{{/each}}
+    });
+{{/each}}
+}

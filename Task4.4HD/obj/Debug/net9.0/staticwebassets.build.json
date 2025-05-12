@@ -1,0 +1,3391 @@
+{
+  "Version": 1,
+  "Hash": "Sh5JYa1N8vNGEb2DwkGRfPKtvxxxsXPXu5DgNMVsmxI=",
+  "Source": "task3.2",
+  "BasePath": "_content/task3.2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "task3.2\\wwwroot",
+      "Source": "task3.2",
+      "ContentRoot": "E:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\",
+      "BasePath": "_content/task3.2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\4eooxyvjw5-voqtbgdh21.gz",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-newspaper#[.{fingerprint=voqtbgdh21}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-newspaper.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bmb82v9fkn",
+      "Integrity": "01pwsDI+B9Id/aJ4EfvS6MCypW8lqua0C57z1T/YOBk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-newspaper.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\61wyax5wo0-59088rkc8x.gz",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/robot#[.{fingerprint=59088rkc8x}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\robot.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "01w2c67iv0",
+      "Integrity": "XJ1xz5FPKWuhLyj0tmo2Hsjoxe4Eht6ghS2f0Jd637c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\robot.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\87802sxue9-koyquwyjkb.gz",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "swagger/favicon#[.{fingerprint=koyquwyjkb}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "r68v4uj5ic",
+      "Integrity": "M2dj3wr8oBgFTukoAOlVuEGoHltsvRSDRiUnjivUc+E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon.ico"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\95j8u4kfa0-n2v1xeq61i.gz",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-flattop#[.{fingerprint=n2v1xeq61i}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-flattop.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "y0pqzyzgq2",
+      "Integrity": "zgNdtu2BMgX3lHZt41NoQG8hROqUiNLUvLRERyaI3/8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-flattop.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\c8zhnby30h-ayv4w6a1cl.gz",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-outline#[.{fingerprint=ayv4w6a1cl}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-outline.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vakacnrry0",
+      "Integrity": "ucIGsJoiAoaZ0xBvuWCHAfdYwWMN3v1rMEC/aspYeto=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-outline.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\fse5x3gkqk-0dt8s28e9b.gz",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-feeling-blue#[.{fingerprint=0dt8s28e9b}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-feeling-blue.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gedp2qjfgk",
+      "Integrity": "6BWCFCnjfMz50zyh+Qv1P/4Ic5KO5irz2xPw68y6Exk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-feeling-blue.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\o0345aq4r6-ztoq639vv3.gz",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-monokai#[.{fingerprint=ztoq639vv3}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-monokai.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8rp9eufp3u",
+      "Integrity": "XN8xy5Szg3mDrCy7JlOgUdEA3nOYUBSvR/feDJU3BVM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-monokai.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\rlkobeopcd-y354m41174.gz",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-material#[.{fingerprint=y354m41174}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-material.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bhn3n7xbnn",
+      "Integrity": "n1x7G828y5ssLyD+OBe+nUoWpxFzb3dFSWVgVRvN/3U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-material.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\t8lpkxpkqu-k0kuzhetng.gz",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-muted#[.{fingerprint=k0kuzhetng}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-muted.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pqonsxvcdd",
+      "Integrity": "/3LDmMjPJizTS6fAXXMqUXIHHqbFEZEbFmjvN/3Ikws=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-muted.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\images\\deakin-logo.png",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "images/deakin-logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "shqkopkvov",
+      "Integrity": "IN8KYPXzf0tFQHrHGwFA3Pm5MiDT1cBccUdWcNoOpl4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\deakin-logo.png"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\robot.css",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/robot#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "59088rkc8x",
+      "Integrity": "SUe2qYpVFOdZOjYVLBtL4WMSRUwH1p4vAqCGycrk4FQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\robot.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-feeling-blue.css",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-feeling-blue#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0dt8s28e9b",
+      "Integrity": "XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-feeling-blue.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-flattop.css",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-flattop#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2v1xeq61i",
+      "Integrity": "jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-flattop.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-material.css",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-material#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y354m41174",
+      "Integrity": "Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-material.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-monokai.css",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-monokai#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ztoq639vv3",
+      "Integrity": "NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-monokai.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-muted.css",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-muted#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k0kuzhetng",
+      "Integrity": "LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-muted.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-newspaper.css",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-newspaper#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "voqtbgdh21",
+      "Integrity": "oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-newspaper.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-outline.css",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "styles/theme-outline#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ayv4w6a1cl",
+      "Integrity": "wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-outline.css"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon-16x16.png",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "swagger/favicon-16x16#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pgobsibfwr",
+      "Integrity": "Zxtzn6at1JTuVqWcHraNyqQGQJ5UOJBYKs3/aS8AL80=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\favicon-16x16.png"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon-32x32.png",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "swagger/favicon-32x32#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6cya8ttf2t",
+      "Integrity": "qgd29Hzn6xHuTplTL0VJ+dBqecxsh1FuUdn2T+PheqM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\favicon-32x32.png"
+    },
+    {
+      "Identity": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon.ico",
+      "SourceId": "task3.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\",
+      "BasePath": "_content/task3.2",
+      "RelativePath": "swagger/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "koyquwyjkb",
+      "Integrity": "7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\favicon.ico"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/deakin-logo.png",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\images\\deakin-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IN8KYPXzf0tFQHrHGwFA3Pm5MiDT1cBccUdWcNoOpl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IN8KYPXzf0tFQHrHGwFA3Pm5MiDT1cBccUdWcNoOpl4="
+        }
+      ]
+    },
+    {
+      "Route": "images/deakin-logo.shqkopkvov.png",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\images\\deakin-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IN8KYPXzf0tFQHrHGwFA3Pm5MiDT1cBccUdWcNoOpl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "shqkopkvov"
+        },
+        {
+          "Name": "label",
+          "Value": "images/deakin-logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IN8KYPXzf0tFQHrHGwFA3Pm5MiDT1cBccUdWcNoOpl4="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.59088rkc8x.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\61wyax5wo0-59088rkc8x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005376344086"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJ1xz5FPKWuhLyj0tmo2Hsjoxe4Eht6ghS2f0Jd637c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SUe2qYpVFOdZOjYVLBtL4WMSRUwH1p4vAqCGycrk4FQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59088rkc8x"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/robot.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SUe2qYpVFOdZOjYVLBtL4WMSRUwH1p4vAqCGycrk4FQ="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.59088rkc8x.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\robot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SUe2qYpVFOdZOjYVLBtL4WMSRUwH1p4vAqCGycrk4FQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59088rkc8x"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/robot.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SUe2qYpVFOdZOjYVLBtL4WMSRUwH1p4vAqCGycrk4FQ="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.59088rkc8x.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\61wyax5wo0-59088rkc8x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJ1xz5FPKWuhLyj0tmo2Hsjoxe4Eht6ghS2f0Jd637c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59088rkc8x"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/robot.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XJ1xz5FPKWuhLyj0tmo2Hsjoxe4Eht6ghS2f0Jd637c="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\61wyax5wo0-59088rkc8x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005376344086"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJ1xz5FPKWuhLyj0tmo2Hsjoxe4Eht6ghS2f0Jd637c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SUe2qYpVFOdZOjYVLBtL4WMSRUwH1p4vAqCGycrk4FQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SUe2qYpVFOdZOjYVLBtL4WMSRUwH1p4vAqCGycrk4FQ="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\robot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SUe2qYpVFOdZOjYVLBtL4WMSRUwH1p4vAqCGycrk4FQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SUe2qYpVFOdZOjYVLBtL4WMSRUwH1p4vAqCGycrk4FQ="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\61wyax5wo0-59088rkc8x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJ1xz5FPKWuhLyj0tmo2Hsjoxe4Eht6ghS2f0Jd637c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XJ1xz5FPKWuhLyj0tmo2Hsjoxe4Eht6ghS2f0Jd637c="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-feeling-blue.0dt8s28e9b.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\fse5x3gkqk-0dt8s28e9b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000181422351"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5511"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6BWCFCnjfMz50zyh+Qv1P/4Ic5KO5irz2xPw68y6Exk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0dt8s28e9b"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-feeling-blue.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-feeling-blue.0dt8s28e9b.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-feeling-blue.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0dt8s28e9b"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-feeling-blue.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-feeling-blue.0dt8s28e9b.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\fse5x3gkqk-0dt8s28e9b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5511"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6BWCFCnjfMz50zyh+Qv1P/4Ic5KO5irz2xPw68y6Exk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0dt8s28e9b"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-feeling-blue.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6BWCFCnjfMz50zyh+Qv1P/4Ic5KO5irz2xPw68y6Exk="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-feeling-blue.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\fse5x3gkqk-0dt8s28e9b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000181422351"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5511"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6BWCFCnjfMz50zyh+Qv1P/4Ic5KO5irz2xPw68y6Exk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-feeling-blue.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-feeling-blue.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-feeling-blue.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\fse5x3gkqk-0dt8s28e9b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5511"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6BWCFCnjfMz50zyh+Qv1P/4Ic5KO5irz2xPw68y6Exk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6BWCFCnjfMz50zyh+Qv1P/4Ic5KO5irz2xPw68y6Exk="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-flattop.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\95j8u4kfa0-n2v1xeq61i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000181126607"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5520"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgNdtu2BMgX3lHZt41NoQG8hROqUiNLUvLRERyaI3/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-flattop.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-flattop.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-flattop.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\95j8u4kfa0-n2v1xeq61i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgNdtu2BMgX3lHZt41NoQG8hROqUiNLUvLRERyaI3/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgNdtu2BMgX3lHZt41NoQG8hROqUiNLUvLRERyaI3/8="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-flattop.n2v1xeq61i.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\95j8u4kfa0-n2v1xeq61i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000181126607"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5520"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgNdtu2BMgX3lHZt41NoQG8hROqUiNLUvLRERyaI3/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2v1xeq61i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-flattop.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-flattop.n2v1xeq61i.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-flattop.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2v1xeq61i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-flattop.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-flattop.n2v1xeq61i.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\95j8u4kfa0-n2v1xeq61i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgNdtu2BMgX3lHZt41NoQG8hROqUiNLUvLRERyaI3/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2v1xeq61i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-flattop.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgNdtu2BMgX3lHZt41NoQG8hROqUiNLUvLRERyaI3/8="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-material.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\rlkobeopcd-y354m41174.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000176460208"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5666"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n1x7G828y5ssLyD+OBe+nUoWpxFzb3dFSWVgVRvN/3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-material.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-material.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-material.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\rlkobeopcd-y354m41174.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n1x7G828y5ssLyD+OBe+nUoWpxFzb3dFSWVgVRvN/3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n1x7G828y5ssLyD+OBe+nUoWpxFzb3dFSWVgVRvN/3U="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-material.y354m41174.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\rlkobeopcd-y354m41174.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000176460208"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5666"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n1x7G828y5ssLyD+OBe+nUoWpxFzb3dFSWVgVRvN/3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y354m41174"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-material.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-material.y354m41174.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-material.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y354m41174"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-material.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-material.y354m41174.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\rlkobeopcd-y354m41174.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n1x7G828y5ssLyD+OBe+nUoWpxFzb3dFSWVgVRvN/3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y354m41174"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-material.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n1x7G828y5ssLyD+OBe+nUoWpxFzb3dFSWVgVRvN/3U="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-monokai.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\o0345aq4r6-ztoq639vv3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000174703005"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5723"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XN8xy5Szg3mDrCy7JlOgUdEA3nOYUBSvR/feDJU3BVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-monokai.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-monokai.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-monokai.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\o0345aq4r6-ztoq639vv3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5723"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XN8xy5Szg3mDrCy7JlOgUdEA3nOYUBSvR/feDJU3BVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XN8xy5Szg3mDrCy7JlOgUdEA3nOYUBSvR/feDJU3BVM="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-monokai.ztoq639vv3.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\o0345aq4r6-ztoq639vv3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000174703005"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5723"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XN8xy5Szg3mDrCy7JlOgUdEA3nOYUBSvR/feDJU3BVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ztoq639vv3"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-monokai.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-monokai.ztoq639vv3.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-monokai.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ztoq639vv3"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-monokai.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-monokai.ztoq639vv3.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\o0345aq4r6-ztoq639vv3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5723"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XN8xy5Szg3mDrCy7JlOgUdEA3nOYUBSvR/feDJU3BVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ztoq639vv3"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-monokai.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XN8xy5Szg3mDrCy7JlOgUdEA3nOYUBSvR/feDJU3BVM="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-muted.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\t8lpkxpkqu-k0kuzhetng.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000181983621"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5494"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/3LDmMjPJizTS6fAXXMqUXIHHqbFEZEbFmjvN/3Ikws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-muted.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-muted.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-muted.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\t8lpkxpkqu-k0kuzhetng.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/3LDmMjPJizTS6fAXXMqUXIHHqbFEZEbFmjvN/3Ikws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/3LDmMjPJizTS6fAXXMqUXIHHqbFEZEbFmjvN/3Ikws="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-muted.k0kuzhetng.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\t8lpkxpkqu-k0kuzhetng.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000181983621"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5494"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/3LDmMjPJizTS6fAXXMqUXIHHqbFEZEbFmjvN/3Ikws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k0kuzhetng"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-muted.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-muted.k0kuzhetng.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-muted.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k0kuzhetng"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-muted.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-muted.k0kuzhetng.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\t8lpkxpkqu-k0kuzhetng.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/3LDmMjPJizTS6fAXXMqUXIHHqbFEZEbFmjvN/3Ikws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k0kuzhetng"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-muted.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/3LDmMjPJizTS6fAXXMqUXIHHqbFEZEbFmjvN/3Ikws="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-newspaper.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\4eooxyvjw5-voqtbgdh21.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000182815356"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5469"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"01pwsDI+B9Id/aJ4EfvS6MCypW8lqua0C57z1T/YOBk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-newspaper.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-newspaper.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-newspaper.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\4eooxyvjw5-voqtbgdh21.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"01pwsDI+B9Id/aJ4EfvS6MCypW8lqua0C57z1T/YOBk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-01pwsDI+B9Id/aJ4EfvS6MCypW8lqua0C57z1T/YOBk="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-newspaper.voqtbgdh21.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\4eooxyvjw5-voqtbgdh21.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000182815356"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5469"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"01pwsDI+B9Id/aJ4EfvS6MCypW8lqua0C57z1T/YOBk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "voqtbgdh21"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-newspaper.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-newspaper.voqtbgdh21.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-newspaper.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "voqtbgdh21"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-newspaper.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-newspaper.voqtbgdh21.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\4eooxyvjw5-voqtbgdh21.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"01pwsDI+B9Id/aJ4EfvS6MCypW8lqua0C57z1T/YOBk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "voqtbgdh21"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-newspaper.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-01pwsDI+B9Id/aJ4EfvS6MCypW8lqua0C57z1T/YOBk="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.ayv4w6a1cl.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\c8zhnby30h-ayv4w6a1cl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000183789745"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5440"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ucIGsJoiAoaZ0xBvuWCHAfdYwWMN3v1rMEC/aspYeto=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ayv4w6a1cl"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-outline.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.ayv4w6a1cl.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-outline.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ayv4w6a1cl"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-outline.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.ayv4w6a1cl.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\c8zhnby30h-ayv4w6a1cl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ucIGsJoiAoaZ0xBvuWCHAfdYwWMN3v1rMEC/aspYeto=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ayv4w6a1cl"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-outline.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ucIGsJoiAoaZ0xBvuWCHAfdYwWMN3v1rMEC/aspYeto="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\c8zhnby30h-ayv4w6a1cl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000183789745"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5440"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ucIGsJoiAoaZ0xBvuWCHAfdYwWMN3v1rMEC/aspYeto=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.css",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-outline.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.css.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\c8zhnby30h-ayv4w6a1cl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ucIGsJoiAoaZ0xBvuWCHAfdYwWMN3v1rMEC/aspYeto=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ucIGsJoiAoaZ0xBvuWCHAfdYwWMN3v1rMEC/aspYeto="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon-16x16.pgobsibfwr.png",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon-16x16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zxtzn6at1JTuVqWcHraNyqQGQJ5UOJBYKs3/aS8AL80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pgobsibfwr"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/favicon-16x16.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zxtzn6at1JTuVqWcHraNyqQGQJ5UOJBYKs3/aS8AL80="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon-16x16.png",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon-16x16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zxtzn6at1JTuVqWcHraNyqQGQJ5UOJBYKs3/aS8AL80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zxtzn6at1JTuVqWcHraNyqQGQJ5UOJBYKs3/aS8AL80="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon-32x32.6cya8ttf2t.png",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon-32x32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qgd29Hzn6xHuTplTL0VJ+dBqecxsh1FuUdn2T+PheqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6cya8ttf2t"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/favicon-32x32.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qgd29Hzn6xHuTplTL0VJ+dBqecxsh1FuUdn2T+PheqM="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon-32x32.png",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon-32x32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qgd29Hzn6xHuTplTL0VJ+dBqecxsh1FuUdn2T+PheqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qgd29Hzn6xHuTplTL0VJ+dBqecxsh1FuUdn2T+PheqM="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon.ico",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\87802sxue9-koyquwyjkb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000527426160"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1895"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M2dj3wr8oBgFTukoAOlVuEGoHltsvRSDRiUnjivUc+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon.ico",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon.ico.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\87802sxue9-koyquwyjkb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M2dj3wr8oBgFTukoAOlVuEGoHltsvRSDRiUnjivUc+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M2dj3wr8oBgFTukoAOlVuEGoHltsvRSDRiUnjivUc+E="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon.koyquwyjkb.ico",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\87802sxue9-koyquwyjkb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000527426160"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1895"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M2dj3wr8oBgFTukoAOlVuEGoHltsvRSDRiUnjivUc+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "koyquwyjkb"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon.koyquwyjkb.ico",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "koyquwyjkb"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon.koyquwyjkb.ico.gz",
+      "AssetFile": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\obj\\Debug\\net9.0\\compressed\\87802sxue9-koyquwyjkb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M2dj3wr8oBgFTukoAOlVuEGoHltsvRSDRiUnjivUc+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "koyquwyjkb"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M2dj3wr8oBgFTukoAOlVuEGoHltsvRSDRiUnjivUc+E="
+        }
+      ]
+    }
+  ]
+}

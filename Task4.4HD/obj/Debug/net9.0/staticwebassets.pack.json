@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\images\\deakin-logo.png",
+      "PackagePath": "staticwebassets\\images\\deakin-logo.png"
+    },
+    {
+      "Id": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\robot.css",
+      "PackagePath": "staticwebassets\\styles\\robot.css"
+    },
+    {
+      "Id": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-feeling-blue.css",
+      "PackagePath": "staticwebassets\\styles\\theme-feeling-blue.css"
+    },
+    {
+      "Id": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-flattop.css",
+      "PackagePath": "staticwebassets\\styles\\theme-flattop.css"
+    },
+    {
+      "Id": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-material.css",
+      "PackagePath": "staticwebassets\\styles\\theme-material.css"
+    },
+    {
+      "Id": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-monokai.css",
+      "PackagePath": "staticwebassets\\styles\\theme-monokai.css"
+    },
+    {
+      "Id": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-muted.css",
+      "PackagePath": "staticwebassets\\styles\\theme-muted.css"
+    },
+    {
+      "Id": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-newspaper.css",
+      "PackagePath": "staticwebassets\\styles\\theme-newspaper.css"
+    },
+    {
+      "Id": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\styles\\theme-outline.css",
+      "PackagePath": "staticwebassets\\styles\\theme-outline.css"
+    },
+    {
+      "Id": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\swagger\\favicon-16x16.png"
+    },
+    {
+      "Id": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\swagger\\favicon-32x32.png"
+    },
+    {
+      "Id": "e:\\UNI\\Deakin\\SIT331 Secure backend\\NetProjects\\Task4.4HD\\wwwroot\\swagger\\favicon.ico",
+      "PackagePath": "staticwebassets\\swagger\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.task3.2.props",
+      "PackagePath": "build\\task3.2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.task3.2.props",
+      "PackagePath": "buildMultiTargeting\\task3.2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.task3.2.props",
+      "PackagePath": "buildTransitive\\task3.2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.task3.2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.task3.2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

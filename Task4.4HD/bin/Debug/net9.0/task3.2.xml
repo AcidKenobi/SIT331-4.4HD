@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>task3.2</name>
+    </assembly>
+    <members>
+        <member name="M:MapsController.GetAllMaps">
+            <summary> Get all maps </summary>
+            <returns> List of maps </returns>
+            <response code = "200"> Returns list of all maps </response>
+        </member>
+        <member name="M:MapsController.GetAllSquareMaps">
+            <summary> Get all maps that are square</summary>
+            <returns> List of maps that are square</returns>
+            <response code = "200"> Returns list of all maps that are square</response>
+        </member>
+        <member name="M:MapsController.GetMapById(System.Int32)">
+            <summary> Get map by Id </summary>
+            <param name="id"> Unique identifier </param>
+            <returns> Map with respective Id </returns>
+            <response code = "200"> Map with respective Id </response>
+            <response code = "404"> Map with ID not found </response>
+        </member>
+        <member name="M:MapsController.AddMap(task3._2.Models.Map)">
+            <summary> Create a new map </summary>
+            <param name="newMap"> A new map from the HTTP request </param>
+            <returns> Newly created map </returns>
+            <remarks> <para>
+            Sample request:
+            
+            POST /api/maps {
+                "id": 0,
+                "columns": 0,
+                "rows": 0,
+                "name": "string",
+                "description": "string",
+                "createdDate": "2025-04-18T04:33:04.088Z",
+                "modifiedDate": "2025-04-18T04:33:04.088Z"
+            }
+            
+            </para> </remarks>
+            <response code = "201"> Returns the newly created map </response>
+            <response code="400"> If the map is null </response> 
+            <response code="409"> If a map with the same name already exists. </response>
+        </member>
+        <member name="M:MapsController.UpdateMap(System.Int32,task3._2.Models.Map)">
+            <summary> Update a robot command by Id. </summary>
+            <param name="id"> Unique identifier </param>
+            <param name="updatedMap"> An updated map from the HTTP request </param>
+            <returns> No content </returns>
+            <remarks> <para>
+            Sample request:
+            
+            PUT /api/maps/{id}{
+                "columns": 10,
+                "rows": 10,
+                "name": "string1",
+                "description": "string3",
+                "modifiedDate": "2025-03-16T04:49:36.235Z"
+            }
+            </para> </remarks>
+            <response code = "204"> If map updated successfully </response>
+            <response code = "400"> Request contains invalid or null data </response>
+        </member>
+        <member name="M:MapsController.DeleteMap(System.Int32)">
+            <summary> Delete a map by Id </summary>
+            <param name="id"> Unique identifier </param>
+            <returns> No content </returns>
+            <response code = "204"> If map deleted successfully </response>
+            <response code = "404"> If map with corresponding Id not found </response>
+        </member>
+        <member name="M:MapsController.CheckCoordinate(System.Int32,System.Int32,System.Int32)">
+            <summary> Check if coordinate bounds are contained within a map </summary>
+            <param name="id"> Unique identifier </param>
+            <param name="x"> X coordinate </param>
+            <param name="y"> Y coordinate </param>
+            <returns> true if within map, false if outside of map bounds </returns>
+            <response code = "200"> If request successful </response>
+            <response code = "400"> If request is invalid or null </response>
+            <response code = "404"> If map with corresponding Id not found </response>
+        </member>
+        <member name="M:RobotCommandsController.GetAllRobotCommands">
+            <summary> Get all robot commands </summary>
+            <returns> List of robot commands </returns>
+            <response code = "200"> Returns list of all robot commands </response>
+        </member>
+        <member name="M:RobotCommandsController.GetMoveCommandsOnly">
+            <summary> Get all robot commands that are move functions </summary>
+            <returns>List of robot commands that are move functions </returns>
+            <response code = "200"> Returns list of robot commands that are move functions </response>
+        </member>
+        <member name="M:RobotCommandsController.GetRobotCommandById(System.Int32)">
+            <summary> Get a robot command by Id </summary>
+            <param name="id"> Unique identifier </param>
+            <returns> Robot command with respective Id </returns>
+            <response code = "200"> Robot command with respective Id </response>
+            <response code = "404"> Robot command with ID not found </response>
+        </member>
+        <member name="M:RobotCommandsController.AddRobotCommand(task3._2.Models.RobotCommand)">
+            <summary> Create a new robot command </summary>
+            <param name="newCommand"> A new robot command from the HTTP request.</param>
+            <returns>Newly created robot command</returns>
+            <remarks> <para>
+            Sample request:
+            
+            POST /api/robot-commands {
+                "name": "testing2",
+                "description": "special",
+                "isMoveCommand": false,
+                "createdDate": "2025-03-16T04:03:30.362Z",
+                "modifiedDate": "2025-03-16T04:03:30.362Z"
+            }
+            
+            </para> </remarks>
+            <response code = "201"> Returns the newly created robot command </response>
+            <response code="400"> If the robot command is null </response> 
+            <response code="409"> If a robot command with the same name already exists. </response>
+        </member>
+        <member name="M:RobotCommandsController.UpdateRobotCommand(System.Int32,task3._2.Models.RobotCommand)">
+            <summary> Update a robot command by Id. </summary>
+            <param name="id"> Unique identifier </param>
+            <param name="updatedCommand"> An updated robot command from the HTTP request </param>
+            <returns> No content </returns>
+            <remarks> <para>
+            Sample request:
+            
+            PUT /api/robot-commands/{id}{
+                "name": "To update",
+                "description": "New description",
+                "isMoveCommand": true
+            }
+            </para> </remarks>
+            <response code = "204"> If robot command updated successfully </response>
+            <response code = "400"> Request contains invalid or null data </response>
+        </member>
+        <member name="M:RobotCommandsController.DeleteRobotCommand(System.Int32)">
+            <summary> Delete a robot command by Id </summary>
+            <param name="id"> Unique identifier </param>
+            <returns> No content </returns>
+            <response code = "204"> If robot command deleted successfully </response>
+            <response code = "404"> If robot command with corresponding Id not found </response>
+        </member>
+    </members>
+</doc>
